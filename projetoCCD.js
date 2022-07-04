@@ -94,7 +94,7 @@ function setup() {
   //  frameRate(1);
   imageMode(CORNER);
   textFont(regular);
-  createCanvas(windowWidth, windowHeight);
+  createCanvas(windowWidth / 4, windowHeight / 4);
 
   pop = new Population();
   pop.initialize();
