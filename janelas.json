@@ -1,0 +1,44 @@
+[
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_1.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  },
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_2.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  },
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_3.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  },
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_4.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  },
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_5.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  },
+  {
+    "nome": "Botanico",
+    "imagePath": "data/ws_6.png",
+    "estilo": "Barroco",
+    "altura": "1",
+    "largura": "2"
+  }
+]
